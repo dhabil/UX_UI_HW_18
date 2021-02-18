@@ -1,0 +1,906 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+
+#david {
+    position: absolute;
+    width: 2150px;
+    height: 2525px;
+    left: -57px;
+    top: 241px;
+    overflow: visible;
+}
+#david_h {
+    position: absolute;
+    width: 2150px;
+    height: 1435px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Component_5__2 {
+    position: absolute;
+    width: 1819px;
+    height: 192px;
+    left: 138px;
+    top: 4624px;
+    overflow: visible;
+}
+#E-plan_Mobile_App___A_part_of_ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 1820px;
+    height: 192px;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(34,52,89,0.8);
+    text-transform: capitalize;
+}
+#Component_8__1 {
+    position: absolute;
+    width: 532px;
+    height: 115px;
+    left: 142px;
+    top: 3487px;
+    overflow: visible;
+}
+#Rectangle_1 {
+    fill: rgba(34,52,89,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 550px;
+    height: 133px;
+    left: 0px;
+    top: 0px;
+}
+#E-Plan {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 209px;
+    top: 38px;
+    position: absolute;
+    overflow: visible;
+    width: 115px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+#Component_8__2 {
+    position: absolute;
+    width: 532px;
+    height: 115px;
+    left: 1419px;
+    top: 3487px;
+    overflow: visible;
+}
+#Rectangle_1_xa {
+    fill: url(#Rectangle_1_xa);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1_xa {
+    position: absolute;
+    overflow: visible;
+    width: 532px;
+    height: 115px;
+    left: 0px;
+    top: 0px;
+}
+#Coming_soon {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 153px;
+    top: 38px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(34,52,89,0.6);
+}
+#Component_8__3 {
+    position: absolute;
+    width: 532px;
+    height: 115px;
+    left: 781px;
+    top: 3487px;
+    overflow: visible;
+}
+#Rectangle_1_xc {
+    fill: url(#Rectangle_1_xc);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1_xc {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 550px;
+    height: 133px;
+    left: 0px;
+    top: 0px;
+}
+#Fotocanorg {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 164px;
+    top: 38px;
+    position: absolute;
+    overflow: visible;
+    width: 204px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(34,52,89,0.8);
+}
+#Component_8__4 {
+    position: absolute;
+    width: 532px;
+    height: 115px;
+    left: 781px;
+    top: 4878px;
+    overflow: visible;
+}
+#Rectangle_1_xg {
+    fill: url(#Rectangle_1_xg);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1_xg {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 550px;
+    height: 133px;
+    left: 0px;
+    top: 0px;
+}
+#_Case_Study_ {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 162px;
+    top: 38px;
+    position: absolute;
+    overflow: visible;
+    width: 208px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(34,52,89,0.8);
+}
+#humburger_menu {
+    position: absolute;
+    width: 118px;
+    height: 54px;
+    left: 1848px;
+    top: 134.28px;
+    overflow: visible;
+}
+#Group_4 {
+    position: absolute;
+    width: 118px;
+    height: 54px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_1 {
+    fill: rgba(34,52,89,1);
+    stroke: rgba(33,52,89,1);
+    stroke-width: 15px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_1 {
+    overflow: visible;
+    position: absolute;
+    width: 133px;
+    height: 15px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_1_xl {
+    fill: rgba(33,52,89,1);
+    stroke: rgba(33,52,89,1);
+    stroke-width: 15px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_1_xl {
+    overflow: visible;
+    position: absolute;
+    width: 133px;
+    height: 15px;
+    left: 0px;
+    top: 27px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_1_xm {
+    fill: rgba(33,52,89,1);
+    stroke: rgba(33,52,89,1);
+    stroke-width: 15px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_1_xm {
+    overflow: visible;
+    position: absolute;
+    width: 133px;
+    height: 15px;
+    left: 0px;
+    top: 54px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Component_30__1 {
+    position: absolute;
+    width: 1739px;
+    height: 444px;
+    left: 142px;
+    top: 1976px;
+    overflow: visible;
+}
+#Component_4__1 {
+    position: absolute;
+    width: 567px;
+    height: 82px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#About_me {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 568px;
+    height: 82px;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    color: rgba(34,52,89,1);
+}
+#Component_3__1 {
+    position: absolute;
+    width: 1662px;
+    height: 281px;
+    left: 77px;
+    top: 163px;
+    overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 1663px;
+    height: 281px;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    color: rgba(34,52,89,0.6);
+}
+#Component_27__15 {
+    position: absolute;
+    width: 1005px;
+    height: 457px;
+    left: 138px;
+    top: 430px;
+    overflow: visible;
+}
+#Component_2__1 {
+    position: absolute;
+    width: 933px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_1 {
+    position: absolute;
+    width: 933px;
+    height: 316px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#David_Habil {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 934px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 180px;
+    color: rgba(34,52,89,1);
+}
+#UX__UI_Designer {
+    left: 0px;
+    top: 226px;
+    position: absolute;
+    overflow: visible;
+    width: 684px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    color: rgba(86,121,166,1);
+}
+#Component_5__1 {
+    position: absolute;
+    width: 1005px;
+    height: 91px;
+    left: 0px;
+    top: 366px;
+    overflow: visible;
+}
+#PRODUCT_UXUI_DESIGNER__RESEARC {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 1006px;
+    height: 91px;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(34,52,89,0.6);
+    text-transform: capitalize;
+}
+#Component_7__1 {
+    position: absolute;
+    width: 394px;
+    height: 82px;
+    left: 138px;
+    top: 3329px;
+    overflow: visible;
+}
+#Projects {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 395px;
+    height: 82px;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    color: rgba(34,52,89,1);
+}
+#Component_33__1 {
+    position: absolute;
+    width: 2984px;
+    height: 875px;
+    left: -453px;
+    top: 3664px;
+    overflow: visible;
+}
+#Rotato_Snapshot {
+    position: absolute;
+    width: 1543px;
+    height: 875px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_x {
+    position: absolute;
+    width: 1543px;
+    height: 868px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_2 {
+    position: absolute;
+    width: 1543px;
+    height: 875px;
+    left: 492px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_2_x {
+    position: absolute;
+    width: 1543px;
+    height: 875px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_2_ya {
+    position: absolute;
+    width: 1543px;
+    height: 868px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_4 {
+    position: absolute;
+    width: 1543px;
+    height: 875px;
+    left: 975px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_4_x {
+    position: absolute;
+    width: 1543px;
+    height: 875px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_4_ya {
+    position: absolute;
+    width: 1543px;
+    height: 868px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_6 {
+    position: absolute;
+    width: 1539px;
+    height: 875px;
+    left: 1445px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_6_yb {
+    position: absolute;
+    width: 1539px;
+    height: 875px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rotato_Snapshot_6_yc {
+    position: absolute;
+    width: 1539px;
+    height: 866px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Component_65__1 {
+    position: absolute;
+    width: 1159px;
+    height: 475px;
+    left: 203px;
+    top: 2769px;
+    overflow: visible;
+}
+#Image_1 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 284px;
+    top: 18px;
+    overflow: visible;
+}
+#Image_2 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 509px;
+    top: 5px;
+    overflow: visible;
+}
+#Image_3 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 318px;
+    height: 318px;
+    left: 0px;
+    top: 157px;
+    overflow: visible;
+}
+#Image_4 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 284px;
+    top: 205px;
+    overflow: visible;
+}
+#Image_5 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 59px;
+    top: 5px;
+    overflow: visible;
+}
+#Image_6 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 509px;
+    top: 182px;
+    overflow: visible;
+}
+#Image_7 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 734px;
+    top: 0px;
+    overflow: visible;
+}
+#Image_8 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 734px;
+    top: 197px;
+    overflow: visible;
+}
+#icons8-visual-studio-code-2019 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 959px;
+    top: 5px;
+    overflow: visible;
+}
+#icons8-google-240 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 959px;
+    top: 197px;
+    overflow: visible;
+}
+#icons8-home {
+    position: absolute;
+    width: 94px;
+    height: 71px;
+    left: 138px;
+    top: 125px;
+    overflow: visible;
+}
+#Path_44 {
+    fill: rgba(34,52,89,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_44 {
+    overflow: visible;
+    position: absolute;
+    width: 94px;
+    height: 71px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Component_31__1 {
+    position: absolute;
+    width: 567px;
+    height: 82px;
+    left: 142px;
+    top: 2560px;
+    overflow: visible;
+}
+#Software {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 568px;
+    height: 82px;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    color: rgba(34,52,89,1);
+}
+#Component_81__1 {
+    position: absolute;
+    width: 1900px;
+    height: 172.5px;
+    left: 105px;
+    top: 5390.5px;
+    overflow: visible;
+}
+#Component_64__1 {
+    position: absolute;
+    width: 1883px;
+    height: 172.5px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(112,112,112,0.302);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 1883px;
+    height: 5px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Component_27__14 {
+    position: absolute;
+    width: 466px;
+    height: 128px;
+    left: 33px;
+    top: 44.5px;
+    overflow: visible;
+}
+#Component_2__1_yw {
+    position: absolute;
+    width: 466px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_1_yx {
+    position: absolute;
+    width: 466px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#David_Habil_yy {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 467px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90px;
+    color: rgba(34,52,89,1);
+}
+#UX__UI_Designer_yz {
+    left: 0px;
+    top: 83px;
+    position: absolute;
+    overflow: visible;
+    width: 343px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    color: rgba(86,121,166,1);
+}
+#Component_80__2 {
+    position: absolute;
+    width: 643px;
+    height: 110px;
+    left: 1257px;
+    top: 62.5px;
+    overflow: visible;
+}
+#Email_Davidayadnagubgmailcom {
+    left: 0px;
+    top: 43px;
+    position: absolute;
+    overflow: visible;
+    width: 469px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(34,52,89,1);
+}
+#Cell_6475171700 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 283px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(34,52,89,1);
+}
+#Linkedin_httpswwwlinkedincomin {
+    left: 0px;
+    top: 80px;
+    position: absolute;
+    overflow: visible;
+    width: 644px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Hoefler Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(34,52,89,1);
+}
+#Component_84__1 {
+    position: absolute;
+    width: 133px;
+    height: 133px;
+    left: 1668px;
+    top: 5145px;
+    overflow: visible;
+}
+#Path_49 {
+    fill: rgba(34,52,89,0.2);
+    stroke: rgba(34,52,89,1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_49 {
+    overflow: visible;
+    position: absolute;
+    width: 133px;
+    height: 133px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_48 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(34,52,89,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_48 {
+    overflow: visible;
+    position: absolute;
+    width: 44.424px;
+    height: 49.599px;
+    left: 32.584px;
+    top: 28.549px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_47 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(34,52,89,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_47 {
+    overflow: visible;
+    position: absolute;
+    width: 45.991px;
+    height: 49.614px;
+    left: 66.5px;
+    top: 28.549px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_50 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(34,52,89,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_50 {
+    overflow: visible;
+    position: absolute;
+    width: 8px;
+    height: 63.281px;
+    left: 58.5px;
+    top: 50.859px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_51 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(34,52,89,1);
+    stroke-width: 8px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_51 {
+    overflow: visible;
+    position: absolute;
+    width: 8px;
+    height: 63.281px;
+    left: 74.5px;
+    top: 50.859px;
+    transform: matrix(1,0,0,1,0,0);
+}
